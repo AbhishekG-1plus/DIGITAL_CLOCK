@@ -1,0 +1,25 @@
+.display-2
+{
+    font-family: verdana;
+    font-size: 7.9rem;
+    font-weight: 5;
+    line-height: 1.5;
+    color : white;
+    text-align: center;
+}
+.jumbotron
+{
+    background-color : black;
+}
+.container
+{
+    background-color : black;
+    text-align: center;
+    border-top: 5cm;
+    border: rgb(47, 219, 24);
+    border-width: 10px;
+}
+.alert
+{
+    margin-top: 3.5%;
+}
